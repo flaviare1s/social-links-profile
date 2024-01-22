@@ -5,6 +5,11 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
+    background-color: hsl(0, 0%, 8%);
+}
+
+.card {
+    background-color: Dark Grey: hsl(0, 0%, 12%);
 }
 
 .normal {
