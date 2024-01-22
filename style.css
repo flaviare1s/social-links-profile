@@ -4,6 +4,7 @@
     margin: 0px auto;
     padding: 0px;
     font-family: 'Inter', sans-serif;
+    font-weight: 400;
 }
 
 body {
@@ -35,11 +36,13 @@ body {
 
 .photo {
     border-radius: 50%;
-    
 }
 
-.normal {
-    font-weight: 400;
+.nome {
+    color: hsl(0, 0%, 100%);
+    font-size: 18px;
+    text-align: center;
+    padding: 22px;
 }
 
 .bold {
