@@ -27,6 +27,14 @@ body {
     border-radius: 10px;
 }
 
+.photo-container {
+    background-color: aliceblue;
+}
+
+.photo {
+    border-radius: 50%;
+}
+
 .normal {
     font-weight: 400;
 }
