@@ -22,7 +22,7 @@ body {
 
 .card {
     background-color: hsl(0, 0%, 12%);
-    width: 80%;
+    width: 70%;
     margin: auto;
     padding: 30px;
     border-radius: 10px;
@@ -36,13 +36,15 @@ body {
 
 .photo {
     border-radius: 50%;
+    width: 80px;
+    height: 80px;
 }
 
 .nome {
     color: hsl(0, 0%, 100%);
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
-    padding: 22px;
+    padding: 20px;
 }
 
 .bold {
