@@ -9,6 +9,7 @@
 
 body {
     background-color: hsl(0, 0%, 8%);
+    font-size: 14px;
 }
 
 .container {
@@ -44,7 +45,13 @@ body {
     color: hsl(0, 0%, 100%);
     font-size: 20px;
     text-align: center;
-    padding: 20px;
+    padding: 20px 0px 10px 0px;
+}
+
+.place {
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 .bold {
