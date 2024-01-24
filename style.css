@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 
 * {
-    margin: 0px auto;
+    margin: 0px;
     padding: 0px;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
@@ -10,15 +10,18 @@
 body {
     background-color: hsl(0, 0%, 8%);
     font-size: 14px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap: 16px;
 }
 
 .container {
     background-color: hsl(0, 0%, 8%);
     width: 375px;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .card {
@@ -92,8 +95,9 @@ body {
 .attribution {
     font-size: 11px;
     text-align: center;
+    color: white;
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: hsl(75, 94%, 57%);
 }
