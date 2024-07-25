@@ -5,7 +5,7 @@
 
 ## Visão Geral
 
-Neste desafio, você deve construir um perfil de links sociais seguindo o design fornecido. O objetivo é recriar o componente o mais próximo possível do design apresentado.
+Neste desafio, tive que construir um perfil de links sociais seguindo o design fornecido. O objetivo é recriar o componente o mais próximo possível do design apresentado.
 
 
 ## Funcionalidades
